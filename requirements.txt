@@ -13,3 +13,4 @@ joblib
 scikit-learn
 Flask
 pdfplumber
+displacy
